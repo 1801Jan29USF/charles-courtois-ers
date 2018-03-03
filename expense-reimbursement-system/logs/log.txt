@@ -1,0 +1,160 @@
+2018-02-21 16:39:09 INFO  DAOLayer:25 - Attempting to insert a new employee
+2018-02-21 16:39:11 WARN  DAOLayer:40 - Failed to insert new employee.
+2018-02-21 16:41:42 INFO  DAOLayer:24 - Attempting to insert a new employee
+2018-02-21 16:41:43 WARN  DAOLayer:39 - Failed to insert new employee.
+2018-02-21 16:42:48 INFO  DAOLayer:24 - Attempting to insert a new employee
+2018-02-21 16:42:49 WARN  DAOLayer:39 - Failed to insert new employee.
+2018-02-21 16:43:29 INFO  DAOLayer:24 - Attempting to insert a new employee
+2018-02-21 16:43:30 WARN  DAOLayer:39 - Failed to insert new employee.
+2018-02-21 16:44:09 INFO  DAOLayer:24 - Attempting to insert a new employee
+2018-02-21 16:44:31 INFO  DAOLayer:24 - Attempting to insert a new employee
+2018-02-22 09:01:02 INFO  DAOLayer:24 - Attempting to insert a new employee
+2018-02-22 09:01:38 INFO  DAOLayer:24 - Attempting to insert a new employee
+2018-02-22 09:03:15 INFO  DAOLayer:24 - Attempting to insert a new employee
+2018-02-22 09:03:19 WARN  DAOLayer:39 - Failed to insert new employee.
+2018-02-22 09:11:54 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 09:11:54 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 09:11:56 WARN  DAOLayer:40 - Failed to insert new employee.
+2018-02-22 09:12:54 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 09:12:54 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 09:12:55 WARN  DAOLayer:40 - Failed to insert new employee.
+2018-02-22 09:13:30 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 09:13:30 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 09:13:31 WARN  DAOLayer:40 - Failed to insert new employee.
+2018-02-22 09:48:33 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 09:48:33 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 09:48:34 WARN  DAOLayer:40 - Failed to insert new employee.
+2018-02-22 10:36:01 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 10:36:02 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 10:36:03 WARN  DAOLayer:40 - Failed to insert new employee.
+2018-02-22 10:41:02 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 10:41:02 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 10:41:25 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 10:41:25 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 10:43:55 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 10:43:55 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 11:06:28 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 11:06:28 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 11:06:29 WARN  DAOLayer:40 - Failed to insert new employee.
+2018-02-22 11:14:59 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 11:15:00 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 11:15:01 WARN  DAOLayer:42 - Failed to insert new employee.
+2018-02-22 11:15:42 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 11:15:42 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 11:15:43 WARN  DAOLayer:42 - Failed to insert new employee.
+2018-02-22 11:16:17 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 11:16:17 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 11:16:18 WARN  DAOLayer:41 - Failed to insert new employee.
+2018-02-22 11:17:45 TRACE DAOLayer:25 - Method called to insert new employee.
+2018-02-22 11:17:45 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:17:46 WARN  DAOLayer:42 - Failed to insert new employee.
+2018-02-22 11:20:43 TRACE DAOLayer:25 - Method called to insert new employee.
+2018-02-22 11:20:43 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:20:44 DEBUG DAOLayer:39 - Query inserted 1 rows into the db.
+2018-02-22 11:21:07 TRACE DAOLayer:25 - Method called to insert new employee.
+2018-02-22 11:21:07 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:21:08 WARN  DAOLayer:42 - Failed to insert new employee.
+2018-02-22 11:21:14 TRACE DAOLayer:25 - Method called to insert new employee.
+2018-02-22 11:21:14 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:21:15 WARN  DAOLayer:42 - Failed to insert new employee.
+2018-02-22 11:21:25 TRACE DAOLayer:25 - Method called to insert new employee.
+2018-02-22 11:21:25 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:21:26 WARN  DAOLayer:42 - Failed to insert new employee.
+2018-02-22 11:21:48 TRACE DAOLayer:25 - Method called to insert new employee.
+2018-02-22 11:21:48 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:21:49 DEBUG DAOLayer:39 - Query inserted 1 rows into the db.
+2018-02-22 11:35:13 TRACE DAOLayer:25 - Method called to insert new employee.
+2018-02-22 11:35:13 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:35:14 WARN  DAOLayer:42 - Failed to insert new employee.
+2018-02-22 11:37:35 TRACE DAOLayer:25 - Method called to insert new employee.
+2018-02-22 11:37:35 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:37:45 TRACE DAOLayer:25 - Method called to insert new employee.
+2018-02-22 11:37:45 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:38:39 TRACE DAOLayer:24 - Method called to insert new employee.
+2018-02-22 11:38:40 TRACE DAOLayer:25 - Attempting to get connection to db.
+2018-02-22 11:44:33 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 11:44:33 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:48:46 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 11:48:46 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:51:29 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 11:51:29 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:55:48 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 11:55:48 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:55:48 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 11:55:48 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:56:01 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 11:56:01 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:56:16 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 11:56:16 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 11:56:26 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 11:56:26 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 13:09:03 WARN  DAOLayer:42 - Failed to insert new user.
+2018-02-22 13:10:56 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 13:10:56 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 13:11:01 WARN  DAOLayer:42 - Failed to insert new user.
+2018-02-22 13:18:27 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 13:18:27 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 13:18:29 WARN  DAOLayer:42 - Failed to insert new user.
+2018-02-22 13:24:45 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-22 13:24:45 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-22 13:24:46 DEBUG DAOLayer:39 - Query inserted 1 rows into the db.
+2018-02-23 11:41:05 TRACE DAOLayer:26 - Method called to insert new user.
+2018-02-23 11:41:05 TRACE DAOLayer:27 - Attempting to get connection to db.
+2018-02-23 11:41:07 WARN  DAOLayer:43 - Failed to insert new user.
+2018-02-23 11:41:26 TRACE DAOLayer:25 - Method called to insert new user.
+2018-02-23 11:41:26 TRACE DAOLayer:26 - Attempting to get connection to db.
+2018-02-23 11:41:27 DEBUG DAOLayer:39 - Query inserted 1 rows into the db.
+2018-02-23 11:53:07 TRACE DAOLayer:53 - Method called to insert new reimbursement.
+2018-02-23 11:53:07 TRACE DAOLayer:54 - Attempting to get connection to db.
+2018-02-23 11:58:40 TRACE DAOLayer:54 - Method called to insert new reimbursement.
+2018-02-23 11:58:40 TRACE DAOLayer:55 - Attempting to get connection to db.
+2018-02-23 12:00:23 TRACE DAOLayer:54 - Method called to insert new reimbursement.
+2018-02-23 12:00:23 TRACE DAOLayer:55 - Attempting to get connection to db.
+2018-02-23 12:00:36 TRACE DAOLayer:54 - Method called to insert new reimbursement.
+2018-02-23 12:00:36 TRACE DAOLayer:55 - Attempting to get connection to db.
+2018-02-23 13:01:22 WARN  DAOLayer:71 - Failed to insert new reimbursement.
+2018-02-23 13:03:01 TRACE DAOLayer:57 - Method called to insert new reimbursement.
+2018-02-23 13:03:01 TRACE DAOLayer:58 - Attempting to get connection to db.
+2018-02-23 13:03:02 WARN  DAOLayer:74 - Failed to insert new reimbursement.
+2018-02-23 13:03:13 TRACE DAOLayer:54 - Method called to insert new reimbursement.
+2018-02-23 13:03:13 TRACE DAOLayer:55 - Attempting to get connection to db.
+2018-02-23 13:03:14 WARN  DAOLayer:71 - Failed to insert new reimbursement.
+2018-02-23 13:03:36 TRACE DAOLayer:31 - Method called to insert new user.
+2018-02-23 13:03:36 TRACE DAOLayer:32 - Attempting to get connection to db.
+2018-02-23 13:03:37 DEBUG DAOLayer:45 - Query inserted 1 rows into the db.
+2018-02-23 13:04:03 TRACE DAOLayer:54 - Method called to insert new reimbursement.
+2018-02-23 13:04:03 TRACE DAOLayer:55 - Attempting to get connection to db.
+2018-02-23 13:04:04 WARN  DAOLayer:71 - Failed to insert new reimbursement.
+2018-02-26 09:21:24 TRACE DAOLayer:54 - Method called to insert new reimbursement.
+2018-02-26 09:21:24 TRACE DAOLayer:55 - Attempting to get connection to db.
+2018-02-26 09:21:29 WARN  DAOLayer:71 - Failed to insert new reimbursement.
+2018-02-26 09:25:14 TRACE DAOLayer:54 - Method called to insert new reimbursement.
+2018-02-26 09:25:14 TRACE DAOLayer:55 - Attempting to get connection to db.
+2018-02-26 09:25:16 DEBUG DAOLayer:68 - Query inserted 1 rows into the db.
+2018-02-26 09:34:00 WARN  DAOLayer:101 - Failed to update user.
+2018-02-26 09:35:41 DEBUG DAOLayer:99 - Query inserted 1 rows into the db.
+2018-02-26 09:42:51 DEBUG DAOLayer:125 - Query inserted 0 rows into the db.
+2018-02-26 09:43:24 DEBUG DAOLayer:125 - Query inserted 0 rows into the db.
+2018-02-26 09:43:40 DEBUG DAOLayer:126 - Query inserted 0 rows into the db.
+2018-02-26 09:44:45 DEBUG DAOLayer:102 - Query updated 1 rows into the db.
+2018-02-26 09:46:43 DEBUG DAOLayer:126 - Query updated 0 row in the db.
+2018-02-26 09:49:52 DEBUG DAOLayer:126 - Query updated 0 row in the db.
+2018-02-26 09:50:17 TRACE DAOLayer:59 - Method called to insert new reimbursement.
+2018-02-26 09:50:17 TRACE DAOLayer:60 - Attempting to get connection to db.
+2018-02-26 09:50:18 DEBUG DAOLayer:73 - Query inserted 1 rows into the db.
+2018-02-26 09:50:18 DEBUG DAOLayer:126 - Query updated 0 row in the db.
+2018-02-26 09:50:58 TRACE DAOLayer:59 - Method called to insert new reimbursement.
+2018-02-26 09:50:58 TRACE DAOLayer:60 - Attempting to get connection to db.
+2018-02-26 09:50:59 DEBUG DAOLayer:73 - Query inserted 1 rows into the db.
+2018-02-26 09:50:59 DEBUG DAOLayer:125 - Query updated 0 row in the db.
+2018-02-26 09:51:44 TRACE DAOLayer:59 - Method called to insert new reimbursement.
+2018-02-26 09:51:44 TRACE DAOLayer:60 - Attempting to get connection to db.
+2018-02-26 09:51:45 DEBUG DAOLayer:73 - Query inserted 1 rows into the db.
+2018-02-26 09:51:46 DEBUG DAOLayer:125 - Query updated 0 row in the db.
+2018-02-26 09:54:05 DEBUG DAOLayer:126 - Query updated 0 row in the db.
+2018-02-26 09:54:54 DEBUG DAOLayer:127 - Query updated 0 row in the db.
+2018-02-26 09:57:05 DEBUG DAOLayer:127 - Query updated 0 row in the db.
+2018-02-26 09:57:25 TRACE DAOLayer:60 - Method called to insert new reimbursement.
+2018-02-26 09:57:25 TRACE DAOLayer:61 - Attempting to get connection to db.
+2018-02-26 09:57:26 DEBUG DAOLayer:74 - Query inserted 1 rows into the db.
+2018-02-26 09:57:26 DEBUG DAOLayer:127 - Query updated 1 row in the db.

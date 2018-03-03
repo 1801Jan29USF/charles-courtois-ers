@@ -1,0 +1,6 @@
+<form (ngSubmit)="addReimbursement(newReimbursement)">
+  <input type="text" name="amount" [(ngModel)]="newReimbursement.amount" placeholder="Amount">
+  <input type="text" name="description" [(ngModel)]="newReimbursement.description" placeholder="Description">
+  <input type="number" name="typeId" [(ngModel)]="newReimbursement.typeId" placeholder="Type Id">
+  <button class="btn btn-primary" type="submit">Submit</button>
+</form>

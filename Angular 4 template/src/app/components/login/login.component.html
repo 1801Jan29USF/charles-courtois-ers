@@ -1,0 +1,38 @@
+<!-- <form (ngSubmit)="login()">
+  <input type="text" name="username" [(ngModel)]="credential.userName" placeholder="Username">
+  <input type="password" name="password" [(ngModel)]="credential.passWord" placeholder="Password">
+  <button class="btn btn-primary" type="submit">Submit</button>
+</form> -->
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Monster Expense Reimbursement System Login</title>
+</head>
+
+<body class="text-center">
+  <form class="form-signin" (ngSubmit)="login()">
+    <img src="http://www.pvhc.net/img163/tqkeixvgdhfmaywtztrm.png">
+    <h1 class="h3 mb-3 font-weight-normal">Greetings Monster, Please sign in!</h1>
+    <label for="inputUsername" class="sr-only">Username</label>
+    <input type="text" name="username" [(ngModel)]="credential.userName" id="inputUsername" class="form-control" placeholder="User name"
+      required autofocus>
+    <label for="inputPassword" class="sr-only">Password</label>
+    <input type="password" name="password" [(ngModel)]="credential.passWord" id="inputPassword" class="form-control" placeholder="Password"
+      required>
+    <div class="checkbox mb-3">
+      <label>
+        <input type="checkbox" value="remember-me"> Remember me
+      </label>
+    </div>
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    <p class="mt-5 mb-3 text-muted">&copy; 2017-2018</p>
+  </form>
+</body>
+
+</html>

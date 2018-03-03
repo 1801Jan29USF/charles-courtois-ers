@@ -1,0 +1,57 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Amount</th>
+      <th scope="col">Date Submitted</th>
+      <th scope="col">Date Resolved</th>
+      <th scope="col">Description</th>
+      <th scope="col">Receipt</th>
+      <th scope="col">Author Id</th>
+      <th scope="col">Resolver Id</th>
+      <th scope="col">Type Id</th>
+      <th scope="col">Status Id</th>
+      <th scope="col">Approve</th>
+      <th scope="col">Deny</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let reimbursement of reimbursements">
+      <td>{{reimbursement.amount}}</td>
+      <td>{{reimbursement.dateSubmitted | date:'fullDate'}}</td>
+      <td *ngIf="reimbursement.dateResolved!=null else unresolved">{{reimbursement.dateResolved | date:'fullDate'}}</td>
+      <ng-template #unresolved>
+        <td>Unresolved</td>
+      </ng-template>
+      <td *ngIf="reimbursement.description!=null else nodescription">{{reimbursement.description}}</td>
+      <ng-template #nodescription>
+        <td>No Description Found</td>
+      </ng-template>
+      <td *ngIf="reimbursement.receipt!=null else noreceipt">{{reimbursement.receipt}}</td>
+      <ng-template #noreceipt>
+        <td>No Receipt Found</td>
+      </ng-template>
+      <td>{{reimbursement.authorId}}</td>
+      <td *ngIf="reimbursement.resolverId!=1 else noresolver">{{reimbursement.resolverId}}</td>
+      <ng-template #noresolver>
+        <td>No</td>
+      </ng-template>
+      <td *ngIf="reimbursement.typeId==1">Lodging</td>
+      <td *ngIf="reimbursement.typeId==2">Travel</td>
+      <td *ngIf="reimbursement.typeId==3">Food</td>
+      <td *ngIf="reimbursement.typeId==4">Other</td>
+      <td *ngIf="reimbursement.statusId==1">Pending</td>
+      <td *ngIf="reimbursement.statusId==2">Approved</td>
+      <td *ngIf="reimbursement.statusId==3">Denied</td>
+      <td>
+        <form (ngSubmit)="allowReimbursement(reimbursement, 2)">
+          <button class="btn btn-primary" type="submit">Submit</button>
+        </form>
+      </td>
+      <td>
+        <form (ngSubmit)="allowReimbursement(reimbursement, 3)">
+          <button class="btn btn-primary" type="submit">Submit</button>
+        </form>
+      </td>
+    </tr>
+  </tbody>
+</table>
